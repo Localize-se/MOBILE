@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLocalize_se.Views.Usuarios.HomeView"
+             Title="HomeView">
+
+    <StackLayout>
+        <Image Source="logo.svg" />
+
+        <Label Text="Escolha uma das Opção Abaixo:"
+               Margin="10,0,0,0"/>
+
+        <Button Text="Login" x:Name="BtnLogin"
+                Margin="0,10,0,0" 
+                VerticalOptions="End"
+                Clicked="BtnLogin_Clicked"/>
+        
+        <Button Text="Cadastrar" 
+                x:Name="BtnCadastrar"
+                Clicked="BtnCadastrar_Clicked"
+                Margin="0,10,0,0"    
+                VerticalOptions="End"/>
+        
+        <Button Text="Fazer login, mas tarde" x:Name="BtnMaisTarde"
+                Clicked="BtnMaisTarde_Clicked"
+                Margin="0,10,0,0"    
+                VerticalOptions="End"/>
+    </StackLayout>
+
+
+</ContentPage>
