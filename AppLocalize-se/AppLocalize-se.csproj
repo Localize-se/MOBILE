@@ -54,27 +54,23 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Models\" />
-	  <Folder Include="ViewModels\" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Compile Update="Views\Paginas\CadastrarView.xaml.cs">
+	  <Compile Update="Views\Usuarios\CadastrarView.xaml.cs">
 	    <DependentUpon>CadastrarView.xaml</DependentUpon>
 	  </Compile>
-	  <Compile Update="Views\Paginas\LoginView.xaml.cs">
+	  <Compile Update="Views\Usuarios\LoginView.xaml.cs">
 	    <DependentUpon>LoginView.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Views\Paginas\CadastrarView.xaml">
+	  <MauiXaml Update="Views\Usuarios\CadastrarView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\Paginas\LoginView.xaml">
+	  <MauiXaml Update="Views\Usuarios\LoginView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\Usuarios\HomeView.xaml">

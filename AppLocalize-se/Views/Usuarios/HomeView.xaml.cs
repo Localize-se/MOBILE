@@ -10,12 +10,12 @@ public partial class HomeView : ContentPage
 
     private void BtnLogin_Clicked(object sender, EventArgs e)
     {
-        Navigation.PushAsync(new Paginas.LoginView());
+        Navigation.PushAsync(new Usuarios.LoginView());
     }
 
     private void BtnCadastrar_Clicked(object sender, EventArgs e)
     {
-        Navigation.PushAsync(new Paginas.CadastrarView());
+        Navigation.PushAsync(new Usuarios.CadastrarView());
     }
 
     private void BtnMaisTarde_Clicked(object sender, EventArgs e)

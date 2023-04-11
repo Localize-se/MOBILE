@@ -12,52 +12,52 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = AppLocalize_se
-build_property.ProjectDir = C:\Users\guilh\OneDrive\Documentos\CursoDeXamarin\AppLocalize-se\AppLocalize-se\
+build_property.ProjectDir = D:\gui\Tcc\04-04-23\MOBILE\AppLocalize-se\
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/App.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/AppShell.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/MainPage.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/Resources/Styles/Colors.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/Resources/Styles/Styles.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/Views/Paginas/CadastrarView.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/Views/Usuarios/CadastrarView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Views.Paginas.CadastrarView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\Paginas\CadastrarView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\Paginas\CadastrarView.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Views.Usuarios.CadastrarView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\CadastrarView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\CadastrarView.xaml
 
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/Views/Paginas/LoginView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Views.Paginas.LoginView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\Paginas\LoginView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\Paginas\LoginView.xaml
-
-[C:/Users/guilh/OneDrive/Documentos/CursoDeXamarin/AppLocalize-se/AppLocalize-se/Views/Usuarios/HomeView.xaml]
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/Views/Usuarios/HomeView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Views.Usuarios.HomeView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\HomeView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\HomeView.xaml
+
+[D:/gui/Tcc/04-04-23/MOBILE/AppLocalize-se/Views/Usuarios/LoginView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppLocalize_se.Views.Usuarios.LoginView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\LoginView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\LoginView.xaml

@@ -4,7 +4,7 @@
              x:Class="AppLocalize_se.Views.Usuarios.HomeView"
              Title="HomeView">
 
-    <StackLayout>
+    <VerticalStackLayout>
         <Image Source="logo.svg" />
 
         <Label Text="Escolha uma das Opção Abaixo:"
@@ -21,11 +21,11 @@
                 Margin="0,10,0,0"    
                 VerticalOptions="End"/>
         
-        <Button Text="Fazer login, mas tarde" x:Name="BtnMaisTarde"
+        <Button Text="Acessar" x:Name="BtnMaisTarde"
                 Clicked="BtnMaisTarde_Clicked"
                 Margin="0,10,0,0"    
                 VerticalOptions="End"/>
-    </StackLayout>
+    </VerticalStackLayout>
 
 
 </ContentPage>
